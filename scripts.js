@@ -1,1 +1,1 @@
-console.log('Welcome to my website fellow developer')
+console.log('Welcome to my website')
